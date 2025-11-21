@@ -1,4 +1,4 @@
 Name: Mbadiwe Victor Chibuikem
 Matric Number: 22CG031886
-Live URL: 
-GitHub Repo: https://github.com/[username]/[repo name]
+Live URL: https://llmappprojectmbadiwe22cg031886-w4xrsd8zasprlhjqprauk9.streamlit.app/
+GitHub Repo: https://github.com/Ug0V1c/LLM_QA_Project_MBADIWE_22CG031886
